@@ -1,0 +1,20 @@
+{
+  "name": "Banno",
+  "version": "1.0.0",
+  "description": "Transport Hub application using handlebars",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "template-engine",
+    "handlebars"
+  ],
+  "author": "Akhil",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
